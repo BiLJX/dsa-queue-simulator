@@ -88,4 +88,4 @@ if __name__ == "__main__":
     try:
         generator.run()
     except KeyboardInterrupt:
-        print("\n\nGenerator stopped by user")
+        print("\n\nGenerator stopped by user")# works now
