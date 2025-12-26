@@ -1,0 +1,18 @@
+# Lane communication files
+lanea.txt
+laneb.txt
+lanec.txt
+laned.txt
+
+
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+git.py
+git.sh
+
+# OS files
+.DS_Store
+Thumbs.db
