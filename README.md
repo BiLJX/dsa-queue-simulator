@@ -63,6 +63,7 @@ Each road (A, B, C, D) has 3 lanes:
 6. Repeat
 
 ## Screenshots
+![Traffic Simulator](screenshot.png)
 
 Run the program to see:
 - Colored vehicles queuing in lanes
