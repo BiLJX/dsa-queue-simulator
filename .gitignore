@@ -10,8 +10,7 @@ laned.txt
 __pycache__/
 *.pyc
 *.pyo
-git.py
-git.sh
+
 
 # OS files
 .DS_Store
